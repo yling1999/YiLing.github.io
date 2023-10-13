@@ -68,28 +68,25 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: MSc in Markteing Analytics
+        university: University of Rochester
+        time: 2022 - 2023
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+            - Merit Scholarship recipient
+            - Related Coursework: Programming for Analytics, Pricing Policies, 
+              Predictive and Causal Analytics, Economics and Marketing Strategy, 
+              Data Warehousing, and Visualization, Statistics, Analytics Design, 
+              and Application
+
+      - degree: BSc in Advertising Management
+        university: Michigan State University
+        time: 2018 - 2021
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Minor: Advertising Analytics
+            - Dean’s list for 5 semesters
+            - Related Coursework: Writing for public relations; Consumer Behaviour, 
+              Account Planning and research, Programmatic media buying; Digital analytics, 
+              Digital graphic design, Method for understanding users
 
 experiences:
     title: Experiences
