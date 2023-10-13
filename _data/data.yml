@@ -54,12 +54,17 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+        Hello, I'm Yi Ling, a second-year MS student at the Simon Business 
+        School, University of Rochester. My journey began with a Bachelor's 
+        in Advertising Management from Michigan State University, followed by 
+        a year of valuable experience in my hometown in China. During that time, 
+        I realized the importance of acquiring essential skills and experience, 
+        which led me back to graduate school. 
+        
+        As I near graduation, my goal is to apply the knowledge I've gained to 
+        real-world challenges. With a strong foundation and a proven track record, 
+        I aspire to pursue roles such as a Senior Marketing Analyst, Marketing Manager, 
+        or to specialize in areas like digital marketing analytics.
 education:
     title: Education
     info:
