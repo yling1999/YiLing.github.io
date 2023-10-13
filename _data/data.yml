@@ -10,7 +10,7 @@ sidebar:
     # Profile information
     name: Yi Ling
     tagline: MS in Marketing Analytics (STEM)
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: Yi_Profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: lingyi0818@outlook.com
