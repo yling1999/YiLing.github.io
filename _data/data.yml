@@ -16,7 +16,7 @@ sidebar:
     email: lingyi0818@outlook.com
     phone: 585 406 2003
     timezone: Pacific Timezone
-    citizenship: Chinese
+    #citizenship: Chinese
     #website: blog.webjeda.com #do not add http://
     linkedin: https://www.linkedin.com/in/yi-ling-simon/
     #xing: alandoe
@@ -54,8 +54,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        Hello, I'm Yi Ling, a second-year MS student at the Simon Business 
-        School, University of Rochester. My journey began with a Bachelor's 
+        Hello, this is Yi Ling, a second-year MS student at the Simon Business 
+        School, University of Rochester. My journey began with the Bachelor degree
         in Advertising Management from Michigan State University, followed by 
         a year of valuable experience in my hometown in China. During that time, 
         I realized the importance of acquiring essential skills and experience, 
@@ -89,45 +89,31 @@ education:
               Digital graphic design, Method for understanding users
 
 experiences:
-    title: Experiences
+    title: Professional Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Assistant Marketing Manager
+        time: Feb 2022 - Jul 2022
+        company: Shaanxi Cultural Industry Investment Holdings, Xi'an, Shaanxi
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+            - Analyzed and visualized data from 15+ schools using Excel pivot tables, 
+              resulting in the successful planning and promotion of extracurricular 
+              activities for 10,000+ high-school students. 
+            - Conducted market research using 3+ online databases to collect advertisement 
+              media data and provide actionable insights and recommendations for 10+ customer 
+              companies' advertising strategies. 
+            
+      - role: Social Media Marketing Intern
+        time: Mar 2023 - Jun 2023
+        company: Triple.com
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Utilized ahrefs.com to track back-links of 276 company-related websites and 
+              identify opportunities for improvement. 
+            - Created optimized landing pages for different social media platforms using 
+              LinkTree, resulting in 5% increase in traffic and backlinks.
+            - Conducted in-depth market research to identify key trends and competitor strategies, 
+              informing datadriven recommendations for improving online presence and engagement. 
+
+
 
 certifications:
       title: Certifications
