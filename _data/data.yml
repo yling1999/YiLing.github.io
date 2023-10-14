@@ -153,36 +153,15 @@ projects:
     assignments:
       - title: Marketing Case of practicum for Cobblestone Learning Center, Dec 2022
         link: https://docs.google.com/file/d/1mTALh8mgd3qkYo8-hQaVpPbTYQV4V14F/edit?usp=docslist_api&filetype=mspresentation
-        tagline: |
-            In collaboration with a team, we undertook a project for our client, Cobblestone Learning Center, 
-            with the objective of enhancing student academic performance and evaluating the 
-            future study projects' success. Leveraging the power of R and Tableau, I analyzed a substantial 
-            dataset of 50,000+ students, resulting in a notable 6.1% improvement in overall performance, 
-            while also delivering valuable recommendations for product enhancement.
+        tagline: "In collaboration with a team, we undertook a project for our client, Cobblestone Learning Center, with the objective of enhancing student academic performance and evaluating the future study projects' success. Leveraging the power of R and Tableau, I analyzed a substantial dataset of 50,000+ students, resulting in a notable 6.1% improvement in overall performance, while also delivering valuable recommendations for product enhancement."
 
       - title: Data Warehouse Project (SQL), Oct 2022
         link: https://drive.google.com/file/d/1ITbKAw5g5nvgWHmgL2ykkd6FIdPs19BL/view?usp=sharing
-        tagline: |
-            In this project, I was part of a team working with a music record company, where my 
-            responsibilities involved database analysis and generating marketing insights. We successfully 
-            queried a database containing over 10,000 customer data entries, employing SQL's aggregate, 
-            join, and filtering functions to derive more than five valuable marketing insights for the 
-            record label. 
-            Additionally, we harnessed the power of Tableau to analyze and visualize the optimized data, 
-            culminating in a dynamic dashboard featuring over five visualizations to aid our client's 
-            decision-making process.
+        tagline: "In this project, I was part of a team working with a music record company, where my responsibilities involved database analysis and generating marketing insights. We successfully queried a database containing over 10,000 customer data entries, employing SQL's aggregate, join, and filtering functions to derive more than five valuable marketing insights for the record label. Additionally, we harnessed the power of Tableau to analyze and visualize the optimized data, culminating in a dynamic dashboard featuring over five visualizations to aid our client's decision-making process."
 
       - title: Marketing Project of practicum at MSU-Ally Financial Inc., Feb 2021
         link: https://docs.google.com/presentation/d/1Biu8eDF9zNGkpJWSSVVnV_h8dQU_-oHzWIpvkC-qidY/edit
-        tagline: |
-            In this project, our objective was to optimize the media utilization of Ally Online Bank 
-            across both online and offline advertising channels. We began by conducting a comprehensive 
-            analysis, which included a SWOT analysis, to revamp the marketing strategy. This analysis 
-            led to the formulation of over five strategic recommendations, ultimately resulting in a 
-            projected 30% increase in sales. Additionally, we conducted an online survey involving more 
-            than 100 users and meticulously analyzed their responses using the Facebook dashboard. 
-            The insights gained from this survey informed the redesign of the website's user interface 
-            and user experience (UI/UX) to align with user preferences and enhance overall customer satisfaction.
+        tagline: "In this project, our objective was to optimize the media utilization of Ally Online Bank across both online and offline advertising channels. We began by conducting a comprehensive analysis, which included a SWOT analysis, to revamp the marketing strategy. This analysis led to the formulation of over five strategic recommendations, ultimately resulting in a projected 30% increase in sales. Additionally, we conducted an online survey involving more than 100 users and meticulously analyzed their responses using the Facebook dashboard. The insights gained from this survey informed the redesign of the website's user interface and user experience (UI/UX) to align with user preferences and enhance overall customer satisfaction."
 
       - title: Atom
         link: "#"
